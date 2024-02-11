@@ -1,10 +1,10 @@
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# 💫 About Me
-<i> I'm interested in electronics, programming related to electronics, and web development.</i>  
-<i> I'm currently learning programming and exploring new technologies.</i>  
-<i> I'm looking to collaborate on web development projects.</i>  
-<i> You can reach me through my social media profiles listed in the contact section.</i>
+# About Me
+> **👀 Interests:** Electronics, programming related to electronics, and web development.  
+> **🌱 Learning:** Currently diving deep into programming and exploring new technologies.  
+> **💞 Looking to Collaborate:** Interested in collaborating on web development projects.  
+> **📫 Contact:** Reach me through my social media profiles listed in the contact section.
 
 
 
