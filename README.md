@@ -35,9 +35,9 @@
 
 
 ##  GitHub 🏆
-![](https://github-profile-trophy.vercel.app/?username=SUBHIN-TM&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SUBHIN-TM&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=SUBHIN-TM&icon=1&color=3)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=SUBHIN-TM&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
