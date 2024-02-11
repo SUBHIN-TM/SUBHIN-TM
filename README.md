@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.kapwing.com/videos/65c8d077fe39fac9e4ca62a9" alt="GIF">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF">
 </div>
 
 # About Me
