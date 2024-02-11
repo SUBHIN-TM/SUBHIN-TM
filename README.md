@@ -28,7 +28,7 @@
 
 # GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUBHIN-TM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHIN-TM&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHIN-TM&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # Codewars Stats
 ![CodeWars Stats](https://www.codewars.com/users/SUBHIN-TM/badges/large)
