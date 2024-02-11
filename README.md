@@ -1,11 +1,10 @@
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # About Me
-> **👀 Interests:** Electronics, programming related to electronics, and web development.  
-> **🌱 Learning:** Currently diving deep into programming and exploring new technologies.  
-> **💞 Looking to Collaborate:** Interested in collaborating on web development projects.  
-> **📫 Contact:** Reach me through my social media profiles listed in the contact section.
-
+> **Web Development:**  *Programming, front-end development, back-end development, and web technologies.*  
+> **Learning:**  *Currently diving deep into programming and exploring new technologies.*  
+> **Looking to Collaborate:** *Interested in collaborating on web development projects.*  
+> **Contact:**  *Reach me through my social media profiles listed in the contact section.*
 
 
 # Languages I Know
