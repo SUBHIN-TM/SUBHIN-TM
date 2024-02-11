@@ -1,3 +1,5 @@
+![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 💫 About Me
 👀 I’m interested in electronics, programming related to electronics, and web development.<br>🌱 I’m currently learning programming and exploring new Technologies.<br>💞️ I’m looking to collaborate on web development projects<br>📫 you can reach me through my social media profiles listed in the contact section.
 
