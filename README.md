@@ -1,8 +1,8 @@
 # About Me
-> **Web Development:**  *Programming, front-end development, back-end development, and web technologies.*  
-> **Learning:**  *Currently diving deep into programming and exploring new technologies.*  
-> **Looking to Collaborate:** *Interested in collaborating on web development projects.*  
-> **Contact:**  *Reach me through my social media profiles listed in the contact section.*
+> 🔴**Web Development :**  *Programming, front-end development, back-end development, and web technologies.*  
+> 🔴**Learning:**  *Currently diving deep into programming and exploring new technologies.*  
+> 🔴**Looking to Collaborate:** *Interested in collaborating on web development projects.*  
+> 🔴**Contact:**  *Reach me through my social media profiles listed in the contact section.*
 
 
 # Languages I Know
