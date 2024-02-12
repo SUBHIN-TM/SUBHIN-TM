@@ -5,7 +5,8 @@
 > 🔴 **Contact :**  *Reach me through my social media profiles listed in the contact section.*
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhin-tm/) <br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
-<br>[![Gmail](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Gmail&logoColor=white)](https://twitch.tv/subhinakshaya96@gmail.com)
+<br><a href="mailto:subhinakshaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
+
 
 # Languages I Know
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
