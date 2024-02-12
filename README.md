@@ -25,7 +25,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
 
-<div style="width: 100%; text-align: center;">
+<div style="width: 100%;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="width: 100%; max-width: 100%;">
 </div>
 
