@@ -4,7 +4,7 @@
 > 🔴 **Looking to Collaborate :** *Interested in collaborating on web development projects.*  
 > 🔴 **Contact :**  *Reach me through my social media profiles listed in the contact section.*
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhin-tm-4096461b7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhin-tm/) <br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
 
 # Languages I Know
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
