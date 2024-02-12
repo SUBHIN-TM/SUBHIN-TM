@@ -4,8 +4,8 @@
 > 🔴 **Looking to Collaborate :** *Interested in collaborating on web development projects.*  
 > 🔴 **Contact :**  *Reach me through my social media profiles listed in the contact section.*
 ##  Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhin-tm/) <br><br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
-<br><br><a href="mailto:subhintm2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhin-tm/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
+<a href="mailto:subhintm2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 
 ## Languages I Know
