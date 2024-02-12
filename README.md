@@ -1,4 +1,4 @@
-## About Me
+## About Me 
 > 🔴 **Web Development :**  *Programming, front-end development, back-end development, and web technologies.*  
 > 🔴 **Learning :**  *Currently diving deep into programming and exploring new technologies.*  
 > 🔴 **Looking to Collaborate :** *Interested in collaborating on web development projects.*  
@@ -30,11 +30,11 @@
 </div>
 
 
-# GitHub Stats
+## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUBHIN-TM&theme=dark&hide_border=false)<br/>
 <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHIN-TM&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# Codewars Stats
+## Codewars Stats
 ![CodeWars Stats](https://www.codewars.com/users/SUBHIN-TM/badges/large)
 
 
