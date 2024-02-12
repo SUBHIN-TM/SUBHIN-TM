@@ -28,9 +28,11 @@ Hi there, I'm Subhin TM, and I'm thrilled to have you here! Whether you're a pot
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
 
-<div  align="center" >
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%;" alt="GIF">
+<div style="display: flex;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="flex-basis: 50%;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="flex-basis: 50%;">
 </div>
+
 
 
 ## GitHub Stats
