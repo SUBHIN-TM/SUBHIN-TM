@@ -12,6 +12,11 @@ Hi there, I'm Subhin TM, and I'm thrilled to have you here! Whether you're a pot
 
 
 ## Languages I Know
+
+<div style="width: 100%; ">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhjemJmaGRtNWFtbnc4emVrcmh4cDJnOHJ3YnEwd3U0OGdqa2FlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width: 100%;" alt="GIF">
+</div>
+
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,9 +33,6 @@ Hi there, I'm Subhin TM, and I'm thrilled to have you here! Whether you're a pot
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
 
-<div style="width: 100%; text-align: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhjemJmaGRtNWFtbnc4emVrcmh4cDJnOHJ3YnEwd3U0OGdqa2FlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width: 100%; max-width: 100%;" alt="GIF">
-</div>
 
 
 ## GitHub Stats
