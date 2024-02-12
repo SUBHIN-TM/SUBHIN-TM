@@ -1,4 +1,4 @@
-# About Me
+## About Me
 > 🔴 **Web Development :**  *Programming, front-end development, back-end development, and web technologies.*  
 > 🔴 **Learning :**  *Currently diving deep into programming and exploring new technologies.*  
 > 🔴 **Looking to Collaborate :** *Interested in collaborating on web development projects.*  
@@ -8,7 +8,7 @@
 <br><a href="mailto:subhintm2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 
-# Languages I Know
+## Languages I Know
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
